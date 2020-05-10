@@ -46,5 +46,7 @@ void my_putchar(char c);
 int check_av(char **av, int i, int j);
 int check_str(elem_t *elem, int i);
 int check_str2(elem_t *elem, int i);
+int my_strcmp(char const *s1, char const *s2);
+int my_strlen(char const *str);
 
 #endif /* !MY_H_ */
