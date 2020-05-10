@@ -2,4 +2,4 @@
 ## 77,6%
 PDF available
 ### Usage:
-      ./matchstick int int
+      ./matchstick nb1 nb2
