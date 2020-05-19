@@ -1,5 +1,4 @@
 # matchstick
-## 77,6%
 PDF available
 ### Usage:
       make re &&
