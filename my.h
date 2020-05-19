@@ -48,5 +48,6 @@ int check_str(elem_t *elem, int i);
 int check_str2(elem_t *elem, int i);
 int my_strcmp(char const *s1, char const *s2);
 int my_strlen(char const *str);
+int error_main(int ac, char **av);
 
 #endif /* !MY_H_ */
