@@ -2,5 +2,6 @@
 ## 77,6%
 PDF available
 ### Usage:
-      ./matchstick nbr1 nbr2
+      make re &&
       ./matchstick -h
+      ./matchstick nbr1 nbr2
