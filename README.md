@@ -1,4 +1,4 @@
-# matchstick
+# Matchstick
 PDF available
 ### Usage:
       make re &&
